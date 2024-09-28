@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1079796711499",
+    "project_id": "mini-mart-idle-farm-tycoon",
+    "storage_bucket": "mini-mart-idle-farm-tycoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079796711499:android:56c60b110c2492c8510dce",
+        "android_client_info": {
+          "package_name": "com.cmgame.martfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079796711499-nc5b3t6a1k7irn5ha247dqjtbdlmljf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByOL2WF7xRrjtcaSWLquOFIz4sDalyj5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079796711499-nc5b3t6a1k7irn5ha247dqjtbdlmljf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079796711499-q5c5hkrff76tmk1kspmoofh672g2m4ir.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cmgame.martfarm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
