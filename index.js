@@ -3,8 +3,8 @@ const express = require("express");
 const path = require("path");
 const TelegramBot = require("node-telegram-bot-api");
 
-const gameName = "YOUR_GAME_NAME_GOES_HERE";
-const webURL = "www.YOUR_URL.com";
+const gameName = "Farm Mini Mart";
+const webURL = "https://unity-telegram-game-backend.vercel.app/";
 
 const server = express();
 const bot = new TelegramBot(process.env.BOT_TOKEN, { polling: true });
